@@ -1,9 +1,10 @@
 # emoji-randomizer
-first preview
+## First preview
 
 
 Get random emojis for your Messenger chat!
 
 
-Idea: Vasilije Dovijanic
-Coding: Veljko Selakovic
+>Idea: Vasilije Dovijanic
+
+>Coding: Veljko Selakovic
