@@ -1,0 +1,13 @@
+{"like": 0,
+"peace": 1,
+"lmfao": 2,
+"blah": 3,
+"smile": 4,
+"oh": 5,
+"rain": 67,
+"snow": 66,
+"night": 73,
+"sun": 11,
+"rainbow": 10,
+"wind": 18
+}

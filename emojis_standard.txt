@@ -1,0 +1,13 @@
+{"umbrella": "\u2614",
+"wind": "\u2601",
+"cloud": "\u1F4A8",
+"storm": "\u26A1",
+"Halloween": "\u1F383",
+"New Years": "\u1F389",
+"Christmas": "\u1F384",
+"Orthodox Christmas": "\u2626",
+"First day of fall": "\u1F341",
+"First day of summer": "\u1F3DD",
+"First day of winter": "\u2744",
+"First day of spring": "\u1F331",
+"Easter": "\u2626"}
